@@ -1,0 +1,12 @@
+
+label {
+    display: block;
+    margin: 5px;
+}
+#crear, #cancelar{
+    margin: 8px;
+    width:80px
+}
+input {
+    width:200px
+}
