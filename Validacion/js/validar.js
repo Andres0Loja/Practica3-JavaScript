@@ -112,7 +112,7 @@ function validarLetras(e) {
     return false;
   }
 }
-function validarNumeros(e) {
+function validarTelefono(e) {
   key = e.keyCode || e.which;
   tecla = String.fromCharCode(key).toString();
   letras = " 0123456789";
